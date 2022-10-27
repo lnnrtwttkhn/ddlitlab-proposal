@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: DDLitLab Proposal
-author: Dr. Lennart Wittkuhn & Prof. Dr. Nicolas Schuck
+author: Dr. Lennart Wittkuhn
 # logo: logo.png
 
 # Force re-execution of notebooks on each build.
