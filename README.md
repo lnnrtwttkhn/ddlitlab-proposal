@@ -14,6 +14,10 @@ Install required packages listed in [requirements.txt](requirements.txt):
 python3 -m pip install -r requirements.txt
 ```
 
+## License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (for details, see the [license file](LICENSE)).
+
 ## Contact
 
 [Lennart Wittkuhn](mailto:wittkuhn@mpib-berlin.mpg.de)
