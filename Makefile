@@ -1,3 +1,3 @@
 .PHONY: build
 build:
-	jupyter-book build docs/
+	jupyter-book build --all docs/
