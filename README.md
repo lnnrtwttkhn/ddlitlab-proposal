@@ -1,8 +1,8 @@
-# DDLitLab Application
+# DDLitLab proposal
 
 ## About
 
-Jupyter Book with application for DDLitLab Teaching Project.
+Jupyter Book with proposal for DDLitLab Teaching Project.
 
 For details about the program, click [here](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html).
 
@@ -17,8 +17,3 @@ python3 -m pip install -r requirements.txt
 ## Contact
 
 [Lennart Wittkuhn](mailto:wittkuhn@mpib-berlin.mpg.de)
-
-
-
-
-
