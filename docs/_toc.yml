@@ -3,7 +3,16 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Antrag
+    numbered: true
+    chapters:
+    - file: antragsart
+    - file: antragsteller
+    - file: rahmendaten
+    - file: lehrangebot
+    - file: lehrkonzept
+  - caption: Anhang
+    numbered: false
+    chapters:
+    - file: ressourcen
