@@ -6,6 +6,10 @@ Jupyter Book with proposal for DDLitLab Teaching Project.
 
 For details about the program, click [here](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html).
 
+## Build
+
+Build the Jupyter Book locally using `jupyter-book build docs/` or `make build`.
+
 ## Requirements
 
 Install required packages listed in [requirements.txt](requirements.txt):
