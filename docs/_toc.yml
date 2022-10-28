@@ -15,4 +15,5 @@ parts:
   - caption: Anhang
     numbered: false
     chapters:
+    - file: lehrplan
     - file: ressourcen
