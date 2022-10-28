@@ -1,7 +1,7 @@
 # Rahmendaten
 
-- **Lehrveranstaltungstitel:** tba
-- **Kurztitel:** (max. 15 Zeichen):
+- **Lehrveranstaltungstitel:** Versionskontrolle von Code und Daten mit Git und DataLad
+- **Kurztitel:** (max. 15 Zeichen): Git it!
 - **Beantragter Förderzeitraum:** 01.04.2023 bis 31.03.2024
 - **Verortung der Veranstaltung:** Studium Generale, höhere Bachelorstudiengänge und Masterstudiengänge
 - **Veranstaltungsart:** Seminar mit Impulsvorträgen, praktischen Übungen und Kleingruppenarbeiten
