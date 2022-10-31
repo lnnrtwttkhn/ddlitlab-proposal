@@ -1,6 +1,6 @@
 # Antragsart
 
-- [x] Projekt im Studium Generale, welches sich an eine breite Studierendenschaft aus unterschiedlichen 
+- [] Projekt im Studium Generale, welches sich an eine breite Studierendenschaft aus unterschiedlichen 
 Fächern und Fakultäten richtet.
-- [ ] Fachspezifisches Projekt im Fach/in den Fächern:
+- [x] Fachspezifisches Projekt im Fach/in den Fächern: Psychologie / Neurowissenschaften
 - [ ] Transferorientiertes Projekt mit Projektpartner:
