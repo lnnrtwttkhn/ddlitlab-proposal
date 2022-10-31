@@ -12,6 +12,7 @@ parts:
     - file: rahmendaten
     - file: lehrangebot
     - file: lehrkonzept
+    - file: transferkonzept
   - caption: Anhang
     numbered: false
     chapters:
