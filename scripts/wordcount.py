@@ -9,8 +9,11 @@ def wordcount(file):
         data = json.load(json_file)
     char_count = 0
     for each in data['cells']:
+        if not each['metadata']:  # if there is no metadata
+            continue
         cell_type = each['cell_type']
-        if cell_type == "markdown":
+        tags = each['metadata']['tags']
+        if cell_type == "markdown" and 'countthis' in tags:
             content = each['source']
             for line in content:
                 temp = line.replace("\n", "").replace(" ", "")  # remove all spaces and newlines from a string
