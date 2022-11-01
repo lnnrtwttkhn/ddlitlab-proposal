@@ -3,7 +3,7 @@
 [![deploy-book](https://github.com/lnnrtwttkhn/ddtlitlab/actions/workflows/main.yml/badge.svg)](https://github.com/lnnrtwttkhn/ddtlitlab/actions/workflows/main.yml)
 
 ```{note}
-This website is still under construction!
+Diese Website befindet sich im Aufbau!
 ```
 
 ```{tableofcontents}
