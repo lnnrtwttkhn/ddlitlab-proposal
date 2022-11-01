@@ -1,5 +1,7 @@
 # DDLitLab proposal
 
+[![deploy-book](https://github.com/lnnrtwttkhn/ddtlitlab/actions/workflows/main.yml/badge.svg)](https://github.com/lnnrtwttkhn/ddtlitlab/actions/workflows/main.yml)
+
 ## About
 
 Jupyter Book with proposal for DDLitLab Teaching Project.
