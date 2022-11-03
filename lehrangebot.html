@@ -350,12 +350,36 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#links">
+   4.1. Links
+  </a>
+ </li>
+</ul>
+
+    </nav>
 </div>
     </div>
     <div class="article row">
@@ -367,6 +391,19 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#links">
+   4.1. Links
+  </a>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -376,25 +413,60 @@ title="Print to PDF"
                 
   <section class="tex2jax_ignore mathjax_ignore" id="beschreibung-des-lehrangebots">
 <h1><span class="section-number">4. </span>Beschreibung des Lehrangebots<a class="headerlink" href="#beschreibung-des-lehrangebots" title="Permalink to this headline">#</a></h1>
-<p>(maximal 3.750 Zeichen – exkl. Leerzeichen)</p>
+<p>(maximal 3.750 Zeichen – exklusive Leerzeichen)</p>
 <p>Erläutern Sie hier bitte:</p>
 <ol class="simple">
 <li><p>Die Inhalte Ihrer Lehrveranstaltung.</p></li>
 <li><p>Ihr Verständnis von Data Literacy, welche Aspekte von Data Literacy Sie in Ihrem Projekt aufgreifen und den Beitrag Ihrer Projektidee für die Data Literacy Education an der UHH.</p></li>
 <li><p>Möglichkeiten der Übertragbarkeit und Verstetigung Ihres Lehrangebots.</p></li>
 </ol>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="o">!</span>python ../scripts/wordcount.py lehrangebot.ipynb
-</pre></div>
-</div>
-</div>
+<hr class="docutils" />
+<p>Die digitalen Objekte auf unseren Computern sind in einem ständigen Wandel.
+Manuskripte, Programmiercode und Forschungsdaten werden über lange Zeiträume kontinuierlich und oft kollaborativ verändert.
+Die systematische Dokumentation dieser Veränderungen bildet die Grundlage für exaktes, kontrolliertes und reproduzierbares Arbeiten an Code und Daten.</p>
+<p>In einem Seminar mit praktischen Übungen erlernen Studierende “Versionskontrolle von Code und Daten mit Git und DataLad”.
+Versionskontrolle ist das Notizbuch für eine digitale Welt und Git <a class="footnote-reference brackets" href="#git" id="id1">1</a> das wohl bekannteste Versionskontrollsystem.
+Es ermöglicht, Veränderungen in digitalen Objekte präzise zu dokumentieren und damit nachzuvollziehen, wer was wann und warum in einer Datei verändert hat.
+Änderungen können revidiert, Versionen miteinander verglichen und bei Bedarf wiederhergestellt werden.
+Git ermöglicht es, gleichzeitig an parallelen Version einer Datei zu arbeiten und Veränderungen systematisch zu integrieren.
+Zudem ermöglicht Git effektive Kollaboration.
+Über Plattformen wie GitHub oder GitLab können Code und Daten mit der Welt geteilt werden, die dann von anderen transparent eingesehen, genutzt und kollaborativ weiterentwickelt werden können.
+Damit trägt Versionskontrolle zu Prinzipien von Transparenz, Reproduzierbarkeit, Open Science, Open Code und Open Data bei.</p>
+<p>Da Git für die Versionierung von kleinen, textbasierten Dateien (wie Programmiercode) entwickelt wurde, ist die Nutzbarkeit bei größeren, binären Dateien (wie Bild- oder Videodaten) aus technischen Gründen limitiert.
+Die open-source Software DataLad <a class="footnote-reference brackets" href="#datalad" id="id2">2</a> erweitert die Funktionen von Git, um Versionskontrolle für arbiträr große Datenmengen (bis zu mehreren Terabyte) zu ermöglichen.
+DataLad ist auf beliebige Datenstrukturen anwendbar und unabhängig von einer zentralen Infrastruktur oder Drittanbietern.
+Wie Git ermöglicht DataLad, Veränderungen von Daten nachzuverfolgen und vorherige Versionen eines Datensatzes wiederherzustellen.
+Zudem kann DataLad Daten vor ungewollter Veränderung schützen.
+Weiterhin erlaubt es DataLad die digitale Provenienz von Daten zu erfassen und Analysen der Daten exakt zu reproduzieren.
+Darüber hinaus können mithilfe von DataLad eigene Daten auf einer Vielzahl von Plattformen veröffentlicht oder existierende Daten genutzt werden.</p>
+<p>Im Rahmen ihres Studiums erhalten Studierende der Psychologie eine umfangreiche Ausbildung in Forschungsmethodik, Statistik und Prinzipien guter wissenschaftlicher Praxis.
+Die erlernten Fähigkeiten kommen insbesondere im Rahmen empirischer Abschlussarbeiten und experimentalpsychologischer Praktika zur Anwendung.
+Das vorliegende Lehrkonzept erweitert die methodischen Fähigkeiten der Studierenden um praxisorientierte Kompetenzen im effektiven Umgang mit Programmiercode und Forschungsdaten.
+Aufgrund ihrer umfangreichen methodischen Ausbildung sind Psycholog:innen neben beruflichen Tätigkeiten in der Forschung auch für Karrieren als Data Analyst oder Data Scientist in der Wirtschaft gefragt.
+Da Versionskontrolle von Programmiercode mit Git zum Standard in der professionellen Softwareentwicklung gehört, wird die “Employability” der Absolvent:innen weiter erhöht.
+Neben diesen praktischen Kompetenzen werden den Studierenden theoretische Konzepte in den Bereichen Open Science, Open Code, Open Data und Open Source vermittelt, die zu einer reflektierten Auseinandersetzung mit zunehmend digitalen und datengetriebenen wirtschaftlichen und gesellschaftlichen Prozessen befähigen und so partizipatives “Self Empowered Citizenship” fördern.
+Themen wie Versionskontrolle, Open Code und Open Data sind aber prinzipiell domänen-unspezifisch und ließen sich auch auf andere Fachbereiche übertragen.
+Eine Verstetigung des Lehrangebots ist daher sowohl innerhalb der Psychologie als auch in anderen Fachbereiche möglich und wünschenswert.
+Die weitreichende Veröffentlichung von Lehrmaterialien als Open Educational Resources ermöglicht auch eine unabhängige Nachnutzung und Weiterentwicklung (siehe Lehrkonzept).</p>
+<div class="cell tag_remove-input docutils container">
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Anzahl an Zeichen: 0 (exkl. Leerzeichen)
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Anzahl an Zeichen: 3429 (exklusive Leerzeichen und Fußnoten)
 </pre></div>
 </div>
 </div>
 </div>
+<section id="links">
+<h2><span class="section-number">4.1. </span>Links<a class="headerlink" href="#links" title="Permalink to this headline">#</a></h2>
+<hr class="footnotes docutils" />
+<dl class="footnote brackets">
+<dt class="label" id="git"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p><a class="reference external" href="https://git-scm.com/">https://git-scm.com/</a></p>
+</dd>
+<dt class="label" id="datalad"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dd><p><a class="reference external" href="https://www.datalad.org/">https://www.datalad.org/</a></p>
+</dd>
+</dl>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
