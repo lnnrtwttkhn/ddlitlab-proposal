@@ -19,6 +19,6 @@ def wordcount(file):
                 temp = line.replace("\n", "").replace(" ", "")  # remove all spaces and newlines from a string
                 temp = re.sub("[\(\[].*?[\)\]]", "", temp)  # remove footnotes, e.g., [^footnote]
                 char_count = char_count + len(temp)
-    print('Anzahl an Zeichen: ' + str(char_count) + ' (exkl. Leerzeichen)')
+    print('Anzahl an Zeichen: ' + str(char_count) + ' (exklusive Leerzeichen und Fußnoten)')
 
 wordcount(file=file)
