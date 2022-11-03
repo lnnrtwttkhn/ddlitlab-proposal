@@ -12,7 +12,7 @@ For details about the program, click [here](https://www.isa.uni-hamburg.de/ddlit
 
 ## Build
 
-Build the Jupyter Book locally using `jupyter-book build docs/` or `make build`.
+Build the HTML version of Jupyter Book locally using `jupyter-book build --all docs/` or `make html`.
 
 ## Requirements
 
