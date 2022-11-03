@@ -373,8 +373,13 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#inhaltliche-bewertungskriterien">
+   5.1. Inhaltliche Bewertungskriterien
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#links">
-   5.1. Links
+   5.2. Links
   </a>
  </li>
 </ul>
@@ -397,8 +402,13 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#inhaltliche-bewertungskriterien">
+   5.1. Inhaltliche Bewertungskriterien
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#links">
-   5.1. Links
+   5.2. Links
   </a>
  </li>
 </ul>
@@ -419,42 +429,49 @@ title="Print to PDF"
 Gehen Sie dabei auch auf den Einsatz digitaler Technologien (z.B. Jupyter Notebooks) und die Gestaltung des digitalen bzw. hybriden Lehr-Lern-Settings ein.</p>
 </div></blockquote>
 <hr class="docutils" />
-<p>Das Lehrkonzept besteht aus einem Seminar (2 SWS, 90 Minuten) mit Impulsvorträgen der Lehrenden (ca. 30 - 50 % der Einheit) und praktischen Übungen (ca. 50 - 70 % der Einheit).
-Die Impulsvorträge vermitteln theoretische Grundlagen für die jeweilige Einheit und gehen in praktische Demonstrationen über, die von den Studierenden mitgemacht werden können (“live coding” und “code-along”).
-Diese Lehrformen werden durch betreute Übungen in Kleingruppen begleitet, die im Rahmen der Seminarveranstaltung begonnen und außerhalb der Veranstaltung weitergeführt werden können.
-Die Lehrveranstaltungen werden außerdem durch kontinuierliche Evaluation und Quizfragen zur Selbstüberprüfung begleitet, die in LimeSurvey <a class="footnote-reference brackets" href="#limesurvey" id="id1">1</a> realisiert werden.
-Die Daten der Evaluationen werden anonymisiert gespeichert und zu einem späteren Zeitpunkt innerhalb der Lehrveranstaltung als exemplarischer Datensatz wiederverwendet.
-Es wird erwartet, dass es die Motivation erhöht, an selbst generierten Daten zu arbeiten.
+<p>Das didaktische Lehrkonzept besteht aus einem Seminar (2 SWS) mit Impulsvorträgen der Lehrenden (ca. 30 - 50 %) und praktischen Übungen (ca. 50 - 70 %).
+Die Vorträge vermitteln theoretische Grundlagen (z.B. Reproduzierbarkeit, Open Code, Open Data) und gehen in interaktive Software-Demonstrationen über (“live coding” und “code-along”).
+Diese Lehrformen werden durch betreute Übungen in Kleingruppen ergänzt, die auch außerhalb der Veranstaltung weitergeführt werden können.
+Die Lehrveranstaltungen werden durch kontinuierliche Evaluation und Quizfragen zur Selbstüberprüfung begleitet, die in LimeSurvey <a class="footnote-reference brackets" href="#limesurvey" id="id1">1</a> realisiert werden.
+Die Daten der Evaluationen und Quizfragen werden anonymisiert gespeichert und innerhalb der Lehrveranstaltung als exemplarischer Datensatz wiederverwendet.
 Alle eingesetzten Software-Tools sind open-source, kostenlos nutzbar, für alle bekannten Betriebssysteme (macOS, Linux, Windows) verfügbar und werden mehrheitlich durch die Universität Hamburg bereitgestellt.
-Da Git und DataLad primär für die Nutzung mittels der Kommandozeile (auf Englisch “command line”) entwickelt wurden, fokussiert das Lehrkonzept ebenfalls auf die Interaktion mit der Kommandozeile.
+Da Git und DataLad primär für die Nutzung über die Kommandozeile entwickelt wurden, fokussiert das Lehrkonzept ebenfalls auf die Interaktion mit der Kommandozeile.
 Die Kommandozeile oder Befehlszeile ist ein Teil eines Computerprogramms, das eine Textzeile als Eingabe entgegennimmt und im Kontext als Kommando interpretiert.
 In den ersten Lehreinheiten werden grundlegende Konzepte und Befehle der Kommandozeile demonstriert und in gemeinsamen Übungen erprobt.
 Es stehen jedoch auch grafische Benutzeroberflächen (Graphical User Interfaces; GUIs) zur Verfügung, die als Alternative zur Kommandozeile angeboten werden.
 Als GUI für Git wird “GitKraken” verwendet, das über das GitHub Student Developer Pack für Studierende in einer kostenloses Pro-Version zur Verfügung steht <a class="footnote-reference brackets" href="#gitkraken" id="id2">2</a>.
 Als GUI für DataLad wird “DataLad Gooey” <a class="footnote-reference brackets" href="#dataladgooey" id="id3">3</a> verwendet, das als Python Package installiert werden kann.
 Zur Erstellung der Lehrmaterialien (Projekt-Website, Präsentationen, praktische Übungen) werden primär die digitalen Technologien Jupyter Notebooks <a class="footnote-reference brackets" href="#jupyter" id="id4">4</a> und Quarto Documents <a class="footnote-reference brackets" href="#quarto" id="id5">5</a> verwendet.
-Git- und DataLad-Befehle können auch innerhalb eines Jupyter-Notebooks verwendet werden.
-Alle Lehrmaterialien werden als Open Educational Resources (OED) über die Projektwebsite unter einer CC BY-SA 4.0 Lizenz <a class="footnote-reference brackets" href="#ccybysa" id="id6">6</a> veröffentlicht.
-Auffindbarkeit und Zitierfähigkeit der Lehrmaterialien werden durch persistente Identifier der Platform Zenodo <a class="footnote-reference brackets" href="#zenodo" id="id7">7</a> gewährleistet.
-Die Antragsteller haben umfangreiche Erfahrungen in der Anwendung aller genannten Software-Tools in Forschung <a class="footnote-reference brackets" href="#highspeed" id="id8">8</a> und Lehre <a class="footnote-reference brackets" href="#talkrdm" id="id9">9</a>.
-Um möglichen Problemen bei der Software-Installation vorzubeugen, kann mit Jupyter-Notebooks auch innerhalb vorbereiteter komputationaler Umgebungen interagiert werden, die über Jupyter-Hub der Universität Hamburg <a class="footnote-reference brackets" href="#jupyterhub" id="id10">10</a> oder Binder <a class="footnote-reference brackets" href="#binder" id="id11">11</a> bereitgestellt werden und durch den Webbrowser zugänglich sind.
-In einer offenen Sprechstunde der Lehrenden können individuelle Lösungen bei Problemen mit der Installation gefunden werden.
-Der Lehrveranstaltungen werden in einem hybriden Lehr-Lern-Setting mittels Zoom <a class="footnote-reference brackets" href="#zoom" id="id12">12</a> durchgeführt.
-Die Impulsvorträge der Lehrenden zu Beginn jeder Einheit werden aufgezeichnet und im Sinne von Open Access über das Portal Lecture2Go der Uni Hamburg <a class="footnote-reference brackets" href="#lecture2go" id="id13">13</a> und YouTube <a class="footnote-reference brackets" href="#youtube" id="id14">14</a> zugänglich gemacht.
-In sogenannten “Breakout-Rooms” können auch bei virtueller Teilnahme üer Zoom parallel technische Probleme durch den/die Tutor:in gelöst werden.
-Außerhalb der Lehrveranstaltungen können Lehrende und Lernende über die Platform GitLab <a class="footnote-reference brackets" href="#gitlab" id="id15">15</a> kommunizieren.
+Git und DataLad können auch innerhalb eines Jupyter Notebooks verwendet werden.
+Um möglichen Problemen bei der Software-Installation vorzubeugen, kann mit Jupyter Notebooks auch innerhalb vorbereiteter komputationaler Umgebungen interagiert werden, die über Jupyter-Hub der Uni Hamburg <a class="footnote-reference brackets" href="#jupyterhub" id="id6">6</a> oder Binder <a class="footnote-reference brackets" href="#binder" id="id7">7</a> bereitgestellt werden und durch den Webbrowser zugänglich sind.
+Alle Lehrmaterialien werden als Open Educational Resources u.a. über die Projektwebsite <a class="footnote-reference brackets" href="#website" id="id8">8</a> unter einer CC BY-SA 4.0 Lizenz <a class="footnote-reference brackets" href="#ccybysa" id="id9">9</a> veröffentlicht.
+Auffindbarkeit und Zitierfähigkeit der Lehrmaterialien werden durch persistente Identifier der Plattform Zenodo <a class="footnote-reference brackets" href="#zenodo" id="id10">10</a> gewährleistet.
+Der Lehrveranstaltungen werden in einem hybriden Lehr-Lern-Setting mittels Zoom <a class="footnote-reference brackets" href="#zoom" id="id11">11</a> durchgeführt.
+Die Impulsvorträge der Lehrenden werden aufgezeichnet und open-access über das Portal Lecture2Go der Uni Hamburg <a class="footnote-reference brackets" href="#lecture2go" id="id12">12</a> und YouTube <a class="footnote-reference brackets" href="#youtube" id="id13">13</a> zugänglich gemacht.
+In “Breakout-Rooms” können auch bei virtueller Teilnahme über Zoom parallel technische Probleme durch den/die Tutor:in gelöst werden.
+Außerhalb der Lehrveranstaltungen können Lehrende und Lernende über die Platform GitLab <a class="footnote-reference brackets" href="#gitlab" id="id14">14</a> kommunizieren.
 Grundlegende Programmierkenntnisse sind für die Veranstaltung vorteilhaft, werden aber nicht vorausgesetzt.
 Die Einführung aller verwendeten Software-Technologien sind Teil der Lehrveranstaltung.
-Die Inhalte dieses Antrags und weitere Ressourcen sind in Jupyter Notebooks dokumentiert und über eine Projekt-Website <a class="footnote-reference brackets" href="#website" id="id16">16</a> verfügbar.</p>
+Die Antragsteller haben umfangreiche Erfahrungen in der Anwendung aller genannten Software-Tools in Forschung <a class="footnote-reference brackets" href="#highspeed" id="id15">15</a> und Lehre <a class="footnote-reference brackets" href="#talkrdm" id="id16">16</a>.
+Die Inhalte dieses Antrags und weitere Ressourcen sind in Jupyter Notebooks dokumentiert und über eine Projektwebsite <a class="footnote-reference brackets" href="#website" id="id17">8</a> verfügbar.</p>
 <div class="cell tag_remove-input docutils container">
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Anzahl an Zeichen: 3302 (exklusive Leerzeichen und Fußnoten)
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Anzahl an Zeichen: 2950 (exklusive Leerzeichen und Fußnoten)
 </pre></div>
 </div>
 </div>
 </div>
+<section id="inhaltliche-bewertungskriterien">
+<h2><span class="section-number">5.1. </span>Inhaltliche Bewertungskriterien<a class="headerlink" href="#inhaltliche-bewertungskriterien" title="Permalink to this headline">#</a></h2>
+<p>Aus den <a class="reference external" href="https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung/ausschreibung-dle-lehrlabor-23.pdf">Förderbedingungen, Seite 1</a>:</p>
+<blockquote>
+<div><p>Die Entwicklung didaktisch gut begründeter Lehr-Lernszenarien unter verantwortungsvoller Nutzung digitaler Technologien soll gefördert werden.
+Ziel ist es, mit den Lehrprojekten auch didaktische und digitale Kompetenzen (Digital University Teaching Literacy) aufzubauen, (für den jeweiligen Kontext) neue und zu gesetzten Lehr-Lernzielen passende Lehrentwürfe auszuarbeiten, zu pilotieren und für andere nutzbar zu machen.
+Dazu zählt beispielsweise der Einsatz von Jupyter Notebooks als interaktive Lernumgebungen oder zur Dokumentation, den wir in DDLitLab gezielt mit Schulungen und Beratungen fördern werden.</p>
+</div></blockquote>
+</section>
 <section id="links">
-<h2><span class="section-number">5.1. </span>Links<a class="headerlink" href="#links" title="Permalink to this headline">#</a></h2>
+<h2><span class="section-number">5.2. </span>Links<a class="headerlink" href="#links" title="Permalink to this headline">#</a></h2>
 <hr class="footnotes docutils" />
 <dl class="footnote brackets">
 <dt class="label" id="limesurvey"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
@@ -472,38 +489,38 @@ Die Inhalte dieses Antrags und weitere Ressourcen sind in Jupyter Notebooks doku
 <dt class="label" id="quarto"><span class="brackets"><a class="fn-backref" href="#id5">5</a></span></dt>
 <dd><p><a class="reference external" href="https://quarto.org/">https://quarto.org/</a></p>
 </dd>
-<dt class="label" id="ccybysa"><span class="brackets"><a class="fn-backref" href="#id6">6</a></span></dt>
-<dd><p><a class="reference external" href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</a></p>
-</dd>
-<dt class="label" id="zenodo"><span class="brackets"><a class="fn-backref" href="#id7">7</a></span></dt>
-<dd><p><a class="reference external" href="https://zenodo.org/">https://zenodo.org/</a></p>
-</dd>
-<dt class="label" id="highspeed"><span class="brackets"><a class="fn-backref" href="#id8">8</a></span></dt>
-<dd><p><a class="reference external" href="https://wittkuhn.mpib.berlin/highspeed/">https://wittkuhn.mpib.berlin/highspeed/</a></p>
-</dd>
-<dt class="label" id="talkrdm"><span class="brackets"><a class="fn-backref" href="#id9">9</a></span></dt>
-<dd><p><a class="reference external" href="https://lennartwittkuhn.com/talk-rdm/">https://lennartwittkuhn.com/talk-rdm/</a></p>
-</dd>
-<dt class="label" id="jupyterhub"><span class="brackets"><a class="fn-backref" href="#id10">10</a></span></dt>
+<dt class="label" id="jupyterhub"><span class="brackets"><a class="fn-backref" href="#id6">6</a></span></dt>
 <dd><p><a class="reference external" href="https://code.min.uni-hamburg.de/">https://code.min.uni-hamburg.de/</a></p>
 </dd>
-<dt class="label" id="binder"><span class="brackets"><a class="fn-backref" href="#id11">11</a></span></dt>
+<dt class="label" id="binder"><span class="brackets"><a class="fn-backref" href="#id7">7</a></span></dt>
 <dd><p><a class="reference external" href="https://mybinder.org/">https://mybinder.org/</a></p>
 </dd>
-<dt class="label" id="zoom"><span class="brackets"><a class="fn-backref" href="#id12">12</a></span></dt>
+<dt class="label" id="website"><span class="brackets">8</span><span class="fn-backref">(<a href="#id8">1</a>,<a href="#id17">2</a>)</span></dt>
+<dd><p><a class="reference external" href="https://lennartwittkuhn.com/ddtlitlab/">https://lennartwittkuhn.com/ddtlitlab/</a></p>
+</dd>
+<dt class="label" id="ccybysa"><span class="brackets"><a class="fn-backref" href="#id9">9</a></span></dt>
+<dd><p><a class="reference external" href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</a></p>
+</dd>
+<dt class="label" id="zenodo"><span class="brackets"><a class="fn-backref" href="#id10">10</a></span></dt>
+<dd><p><a class="reference external" href="https://zenodo.org/">https://zenodo.org/</a></p>
+</dd>
+<dt class="label" id="zoom"><span class="brackets"><a class="fn-backref" href="#id11">11</a></span></dt>
 <dd><p><a class="reference external" href="https://uni-hamburg.zoom.us/">https://uni-hamburg.zoom.us/</a></p>
 </dd>
-<dt class="label" id="lecture2go"><span class="brackets"><a class="fn-backref" href="#id13">13</a></span></dt>
+<dt class="label" id="lecture2go"><span class="brackets"><a class="fn-backref" href="#id12">12</a></span></dt>
 <dd><p><a class="reference external" href="https://lecture2go.uni-hamburg.de/">https://lecture2go.uni-hamburg.de/</a></p>
 </dd>
-<dt class="label" id="youtube"><span class="brackets"><a class="fn-backref" href="#id14">14</a></span></dt>
+<dt class="label" id="youtube"><span class="brackets"><a class="fn-backref" href="#id13">13</a></span></dt>
 <dd><p><a class="reference external" href="https://www.youtube.com/">https://www.youtube.com/</a></p>
 </dd>
-<dt class="label" id="gitlab"><span class="brackets"><a class="fn-backref" href="#id15">15</a></span></dt>
+<dt class="label" id="gitlab"><span class="brackets"><a class="fn-backref" href="#id14">14</a></span></dt>
 <dd><p><a class="reference external" href="https://gitlab.rrz.uni-hamburg.de">https://gitlab.rrz.uni-hamburg.de</a></p>
 </dd>
-<dt class="label" id="website"><span class="brackets"><a class="fn-backref" href="#id16">16</a></span></dt>
-<dd><p><a class="reference external" href="https://lennartwittkuhn.com/ddtlitlab/">https://lennartwittkuhn.com/ddtlitlab/</a></p>
+<dt class="label" id="highspeed"><span class="brackets"><a class="fn-backref" href="#id15">15</a></span></dt>
+<dd><p><a class="reference external" href="https://wittkuhn.mpib.berlin/highspeed/">https://wittkuhn.mpib.berlin/highspeed/</a></p>
+</dd>
+<dt class="label" id="talkrdm"><span class="brackets"><a class="fn-backref" href="#id16">16</a></span></dt>
+<dd><p><a class="reference external" href="https://lennartwittkuhn.com/talk-rdm/">https://lennartwittkuhn.com/talk-rdm/</a></p>
 </dd>
 </dl>
 </section>
