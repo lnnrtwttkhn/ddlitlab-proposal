@@ -1,6 +1,6 @@
 # DDLitLab Proposal
 
-[![deploy-book](https://github.com/lnnrtwttkhn/ddtlitlab/actions/workflows/main.yml/badge.svg)](https://github.com/lnnrtwttkhn/ddtlitlab/actions/workflows/main.yml)
+Titel: **"Versionskontrolle von Code und Daten mit Git und DataLad"**
 
 ```{note}
 Diese Website befindet sich im Aufbau!
