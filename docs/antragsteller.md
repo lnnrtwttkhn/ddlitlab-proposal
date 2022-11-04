@@ -7,7 +7,7 @@
 - **Name:** Dr. Lennart Wittkuhn
 - **Anschrift:** Von-Melle-Park 5, 20146 Hamburg
 - **Telefonnummer:** +49 040 42838
-- **E-Mail:** [lennart.wittkuhn@uni-hamburg.de](mailto:lennart.wittkuhn@uni-hamburg.de)
+- **E-Mail:** [wittkuhn@mpib-berlin.mpg.de](mailto:wittkuhn@mpib-berlin.mpg.de) (UHH-Kennung wird nachgereicht)
 
 ## Mitantragsteller:in
 
