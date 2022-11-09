@@ -8,9 +8,9 @@ Diese Sammlung an Lehr-Lern-Ressourcen befindet sich im Aufbau und wird kontinui
 
 ### Lehrmaterialien
 
-
 - [Jupyter Notebooks](https://jupyter.org/) & [JupyterHub](https://code.min.uni-hamburg.de/hub/)
 - [Quarto Documents](https://quarto.org/)
+- [Collection of Quarto Resources](https://github.com/mcanouil/awesome-quarto)
 
 ### Kommunikation & Austausch
 
@@ -25,9 +25,20 @@ Diese Sammlung an Lehr-Lern-Ressourcen befindet sich im Aufbau und wird kontinui
 - [The Missing Semester](https://missing.csail.mit.edu/)
 - ["How to Teach Git Commits & GitHub to Teenagers" by Jeff Olson](https://medium.com/upperlinecode/how-to-teach-git-commits-github-to-teenagers-a3f740b2f500)
 
+#### Jupyter
+
+- ["Introduction to Using Git in Jupyter"](https://andgarc.github.io/basic-git-jupyter-lesson/index.html)
+- ["Jupyter Book with The Turing Way"](https://malvikasharan.github.io/jupyter-book-with-the-turing-way/aio/index.html)
+
 ### Code Buddies
 
  ("Buddy", Englisch umgangssprachlich für "Kumpel" oder "Kamerad")
+
+## Literatur
+
+- [Estimating the reproducibility of psychological science](https://doi.org/10.1126/science.aac4716)
+
+
 
 Alle Studierenden schätzen ihre Programmierkenntnisse selbst ein und stellen sich in einer Reihe auf.
 Die Reihe der Studierenden wird dann "in der Mitte gefaltet", sodass die Person mit der geringsten Programmierkenntnis und die Person mit der umfangreichsten Programmierkenntnis als "Code Buddies" einander zugewiesen werden.
