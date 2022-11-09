@@ -1,5 +1,9 @@
 # Ressourcen
 
+```{note}
+Diese Sammlung an Lehr-Lern-Ressourcen befindet sich im Aufbau und wird kontinuierlich erweitert! 👷‍♂️🏗🚚
+```
+
 ## Technologien
 
 ### Lehrmaterialien
