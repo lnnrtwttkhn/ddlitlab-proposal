@@ -6,6 +6,14 @@ Diese Sammlung an Lehr-Lern-Ressourcen befindet sich im Aufbau und wird kontinui
 
 ## Technologien
 
+### Hardware
+
+- [Notebook Center of the Institute of Psychology](https://www.psy.uni-hamburg.de/en/service/notebookcenter.html)
+
+> *"The notebook center enables computer-aided work in every seminar room in VMP 5.
+A total of 66 Dell notebooks are equipped with the Windows 8.1 operating systems in order to be able to use the widest possible range of software and to make easy use possible.
+The notebooks are transported in 2 trolleys, each with 33 pieces."*
+
 ### Lehrmaterialien
 
 - [Jupyter Notebooks](https://jupyter.org/) & [JupyterHub](https://code.min.uni-hamburg.de/hub/)
