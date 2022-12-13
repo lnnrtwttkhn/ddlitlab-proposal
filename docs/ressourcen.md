@@ -1,8 +1,26 @@
 # Ressourcen
 
 ```{note}
-Diese Sammlung an Lehr-Lern-Ressourcen befindet sich im Aufbau und wird kontinuierlich erweitert! 👷‍♂️🏗🚚
+Diese Sammlung von Lehr-Lern-Ressourcen befindet sich im Aufbau, dient der Vorbereitung der Lehrveranstaltungen und wird kontinuierlich erweitert! 👷‍♂️🏗🚚
 ```
+
+## Lehr- und Lerninhalte
+
+### Command Line
+
+- ["Unix for Neuroimagers" in Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/unix/Unix_Intro.html)
+- ["The Missing Semester of Your CS Education"](https://missing.csail.mit.edu/)
+
+### Git
+
+- ["Version Control (Git)" - Chapter in "The Missing Semester of Your CS Education"](https://missing.csail.mit.edu/2020/version-control/)
+- ["How to Teach Git Commits & GitHub to Teenagers" by Jeff Olson](https://medium.com/upperlinecode/how-to-teach-git-commits-github-to-teenagers-a3f740b2f500)
+- ["Version Control with Git" by Anna Krystalli](https://annakrystalli.me/rrresearchACCE20/version-control-with-git.html?utm_source=substack&utm_medium=email)
+
+### Literatur
+
+- ["Estimating the reproducibility of psychological science"](https://doi.org/10.1126/science.aac4716)
+- ["1,500 scientists lift the lid on reproducibility"](https://doi.org/10.1038/533452a)
 
 ## Technologien
 
@@ -10,50 +28,38 @@ Diese Sammlung an Lehr-Lern-Ressourcen befindet sich im Aufbau und wird kontinui
 
 - [Notebook Center of the Institute of Psychology](https://www.psy.uni-hamburg.de/en/service/notebookcenter.html)
 
-> *"The notebook center enables computer-aided work in every seminar room in VMP 5.
-A total of 66 Dell notebooks are equipped with the Windows 8.1 operating systems in order to be able to use the widest possible range of software and to make easy use possible.
-The notebooks are transported in 2 trolleys, each with 33 pieces."*
+### Software
 
-### Lehrmaterialien
+#### Jupyter
 
-- [Jupyter Notebooks](https://jupyter.org/) & [JupyterHub](https://code.min.uni-hamburg.de/hub/)
+- [Jupyter Notebooks](https://jupyter.org/)
+- [JupyterHub at UHH](https://code.min.uni-hamburg.de/hub/)
+- ["Introduction to Using Git in Jupyter"](https://andgarc.github.io/basic-git-jupyter-lesson/index.html)
+- ["Jupyter Book with The Turing Way"](https://malvikasharan.github.io/jupyter-book-with-the-turing-way/aio/index.html)
+
+#### Quarto
+
 - [Quarto Documents](https://quarto.org/)
 - [Collection of Quarto Resources](https://github.com/mcanouil/awesome-quarto)
 
 ### Kommunikation & Austausch
 
-- [Zoom der Uni Hamburg](https://uni-hamburg.zoom.us/ )
+- [Zoom der Uni Hamburg](https://uni-hamburg.zoom.us/)
 - [GitLab RRZ UHH für Lehre und Forschung ](https://gitlab.rrz.uni-hamburg.de/)
 - [Zenodo](https://zenodo.org/)
 
 ## Didaktik
 
-### Lehrressourcen
-
-- [The Missing Semester](https://missing.csail.mit.edu/)
-- ["How to Teach Git Commits & GitHub to Teenagers" by Jeff Olson](https://medium.com/upperlinecode/how-to-teach-git-commits-github-to-teenagers-a3f740b2f500)
-
-#### Jupyter
-
-- ["Introduction to Using Git in Jupyter"](https://andgarc.github.io/basic-git-jupyter-lesson/index.html)
-- ["Jupyter Book with The Turing Way"](https://malvikasharan.github.io/jupyter-book-with-the-turing-way/aio/index.html)
-
 ### Code Buddies
 
- ("Buddy", Englisch umgangssprachlich für "Kumpel" oder "Kamerad")
-
-## Literatur
-
-- [Estimating the reproducibility of psychological science](https://doi.org/10.1126/science.aac4716)
-
-
+("Buddy", Englisch umgangssprachlich für "Kumpel" oder "Kamerad")
 
 Alle Studierenden schätzen ihre Programmierkenntnisse selbst ein und stellen sich in einer Reihe auf.
 Die Reihe der Studierenden wird dann "in der Mitte gefaltet", sodass die Person mit der geringsten Programmierkenntnis und die Person mit der umfangreichsten Programmierkenntnis als "Code Buddies" einander zugewiesen werden.
 
 ## Textressourcen
 
-Nicht verwendete Textbausteine zur Beschreibung des [Lehrangebots](./lehrangebot.ipynb)):
+Nicht verwendete Textbausteine zur Beschreibung des [Lehrangebots](./lehrangebot.ipynb):
 
 ```
 Der effektive Umgang mit Code und Daten spielt in Forschung und Lehre, vielen Berufen und der Gesellschaft eine immer größere Rolle.
