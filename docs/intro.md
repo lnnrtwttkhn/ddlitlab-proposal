@@ -10,6 +10,12 @@ Titel: **"Versionskontrolle von Code und Daten mit Git und DataLad"**
 Diese Website befindet sich im Aufbau! 👷‍♂️🏗🚚
 ```
 
+## About
+
+> "DDLitLab supports innovative teaching projects for a maximum of 12 months with the Data Literacy Teaching Lab. The focus is on digital and hybrid teaching innovation that are part of the Studium Generale, subject-specific courses, or knowledge-exchange-oriented teaching activities. For this purpose, DDLitLab offers IT support for teaching projects and promotes the Digital University Teaching Literacy (DUTy) of teachers in cooperation with the Hamburg Center for University Teaching and Learning (HUL)."
+
+Details can be found on the [DDLitLab website](https://www.isa.uni-hamburg.de/en/ddlitlab/data-literacy-lehrlabor.html).
+
 ```{tableofcontents}
 ```
 
@@ -17,6 +23,6 @@ Diese Website befindet sich im Aufbau! 👷‍♂️🏗🚚
 
 [Lennart Wittkuhn](mailto:wittkuhn@mpib-berlin.mpg.de)
 
-## Lizenz
+## License
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
