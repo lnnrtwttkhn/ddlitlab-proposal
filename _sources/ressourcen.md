@@ -13,9 +13,7 @@ Diese Sammlung von Lehr-Lern-Ressourcen befindet sich im Aufbau, dient der Vorbe
 
 ### Git
 
-- ["Version Control (Git)" - Chapter in "The Missing Semester of Your CS Education"](https://missing.csail.mit.edu/2020/version-control/)
-- ["How to Teach Git Commits & GitHub to Teenagers" by Jeff Olson](https://medium.com/upperlinecode/how-to-teach-git-commits-github-to-teenagers-a3f740b2f500)
-- ["Version Control with Git" by Anna Krystalli](https://annakrystalli.me/rrresearchACCE20/version-control-with-git.html?utm_source=substack&utm_medium=email)
+See [this link](https://docs.google.com/spreadsheets/d/1-nana238MzguhbIGnCQEQEfG6GT7WTMdICCgHtG2d4s/edit?usp=sharing) for Git resources.
 
 ### Literatur
 
