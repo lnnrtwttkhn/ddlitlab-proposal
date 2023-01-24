@@ -60,6 +60,13 @@ Baker2016N
 Alle Studierenden schätzen ihre Programmierkenntnisse selbst ein und stellen sich in einer Reihe auf.
 Die Reihe der Studierenden wird dann "in der Mitte gefaltet", sodass die Person mit der geringsten Programmierkenntnis und die Person mit der umfangreichsten Programmierkenntnis als "Code Buddies" einander zugewiesen werden.
 
+### Literatur
+
+```{bibliography}
+:style: alpha
+Heise2023PCB
+```
+
 ## Textressourcen
 
 Nicht verwendete Textbausteine zur Beschreibung des [Lehrangebots](./lehrangebot.ipynb):
