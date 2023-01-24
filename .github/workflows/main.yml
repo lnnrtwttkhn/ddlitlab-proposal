@@ -17,7 +17,14 @@ jobs:
   deploy-book:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+
+    # Checkout repository
+    - name: Checkout repository
+      uses: actions/checkout@v2
+  
+    # Checkout submodules (do not recurse into nested submodules!)
+    - name: Checkout submodules
+      run: git submodule update --init
 
     # Install dependencies
     - name: Set up Python 3.10.7
