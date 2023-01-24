@@ -19,8 +19,11 @@ Diese Sammlung von Lehr-Lern-Ressourcen befindet sich im Aufbau, dient der Vorbe
 
 ### Literatur
 
-- ["Estimating the reproducibility of psychological science"](https://doi.org/10.1126/science.aac4716)
-- ["1,500 scientists lift the lid on reproducibility"](https://doi.org/10.1038/533452a)
+```{bibliography}
+:style: alpha
+Open-Science-Collaboration2015S
+Baker2016N
+```
 
 ## Technologien
 
