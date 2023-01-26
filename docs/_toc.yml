@@ -17,5 +17,6 @@ parts:
   - caption: Anhang
     numbered: false
     chapters:
+    - file: timeline
     - file: lehrplan
     - file: ressourcen
