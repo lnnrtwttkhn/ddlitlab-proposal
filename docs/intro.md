@@ -31,7 +31,7 @@ You can download the {Download}`feedback on our proposal<../data/feedback.pdf>` 
 
 ## Maintainer
 
-[Lennart Wittkuhn](mailto:wittkuhn@mpib-berlin.mpg.de)
+[Lennart Wittkuhn](mailto:lennart.wittkuhn@uni-hamburg.de)
 
 ## License
 
