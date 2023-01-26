@@ -9,8 +9,9 @@ Website: https://lennartwittkuhn.com/ddlitlab
 [![PDF](https://img.shields.io/badge/Antrag-PDF-<COLOR>.svg)](https://github.com/lnnrtwttkhn/ddtlitlab/releases/download/submission/DDLitLab_Antragsformular_2023_Wittkuhn_Schuck_Git_Unsigned.pdf)
 [![Website https://lennartwittkuhn.com/ddlitlab](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://lennartwittkuhn.com/ddlitlab)
 
-```{note}
-Diese Website befindet sich im Aufbau! 👷‍♂️🏗🚚
+```{admonition} Our project receives ~ 50,000 Euro funding from the DDLitLab initiative!
+:class: tip
+Great news! Our [proposal](https://github.com/lnnrtwttkhn/ddtlitlab/releases/download/submission/DDLitLab_Antragsformular_2023_Wittkuhn_Schuck_Git_Unsigned.pdf) for a full-semester course on "Version control of code and data with Git and DataLad" was accepted and receives ~ 50,000 Euro funding through the Digital and Data Literacy in Teaching Lab ([DDLitLab](https://www.isa.uni-hamburg.de/en/ddlitlab.html)) initiative at the University of Hamburg!
 ```
 
 ## About
@@ -19,12 +20,18 @@ Diese Website befindet sich im Aufbau! 👷‍♂️🏗🚚
 
 Details can be found on the [DDLitLab website](https://www.isa.uni-hamburg.de/en/ddlitlab/data-literacy-lehrlabor.html).
 
+## Feedback
+
+You can download the {Download}`feedback on our proposal<../data/feedback.pdf>` from two reviewers.
+
+## Contents
+
 ```{tableofcontents}
 ```
 
 ## Maintainer
 
-[Lennart Wittkuhn](mailto:wittkuhn@mpib-berlin.mpg.de)
+[Lennart Wittkuhn](mailto:lennart.wittkuhn@uni-hamburg.de)
 
 ## License
 
