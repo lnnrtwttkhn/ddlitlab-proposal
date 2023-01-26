@@ -19,6 +19,12 @@ Diese Website befindet sich im Aufbau! 👷‍♂️🏗🚚
 
 Details can be found on the [DDLitLab website](https://www.isa.uni-hamburg.de/en/ddlitlab/data-literacy-lehrlabor.html).
 
+## Feedback
+
+You can download the {Download}`feedback on our proposal<../data/feedback.pdf>` from two reviewers.
+
+## Contents
+
 ```{tableofcontents}
 ```
 
