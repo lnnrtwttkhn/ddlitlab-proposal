@@ -31,12 +31,24 @@ Baker2016N
 
 ### Software
 
+#### Environments
+
+- [A minimal Binder environment for using DataLad](https://github.com/datalad/datalad-binder)
+- RISE
+    - [RISE GitHub](https://github.com/damianavila/RISE)
+    - [Creating interactive presentations on Binder with RISE](https://github.com/binder-examples/jupyter-rise)
+
 #### Jupyter
 
 - [Jupyter Notebooks](https://jupyter.org/)
 - [JupyterHub at UHH](https://code.min.uni-hamburg.de/hub/)
 - ["Introduction to Using Git in Jupyter"](https://andgarc.github.io/basic-git-jupyter-lesson/index.html)
 - ["Jupyter Book with The Turing Way"](https://malvikasharan.github.io/jupyter-book-with-the-turing-way/aio/index.html)
+- [reating startup files for jupyter notebooks in binder](https://discourse.jupyter.org/t/creating-startup-files-for-jupyter-notebooks-in-binder/5609)
+
+#### ipywidgets
+
+- [Jupyter Widgets 8.0.4 documentation](https://ipywidgets.readthedocs.io/en/latest/index.html)
 
 #### Quarto
 
@@ -48,6 +60,8 @@ Baker2016N
 - [Zoom der Uni Hamburg](https://uni-hamburg.zoom.us/)
 - [GitLab RRZ UHH für Lehre und Forschung ](https://gitlab.rrz.uni-hamburg.de/)
 - [Zenodo](https://zenodo.org/)
+- [Particify](https://www.rrz.uni-hamburg.de/services/weitere/digitale-lehre/particify.html)
+- [Abstimmungssysteme (Didaktik)](https://www.e-teaching.org/lehrszenarien/vorlesung/abstimmungssysteme)
 
 ## Didaktik
 
