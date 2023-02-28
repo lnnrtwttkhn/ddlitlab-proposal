@@ -20,3 +20,4 @@ parts:
     - file: timeline
     - file: lehrplan
     - file: ressourcen
+    - file: ausschreibung_whk
