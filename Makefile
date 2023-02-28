@@ -23,4 +23,4 @@ clean:
 # Run the application
 .PHONY: html
 html:
-	jupyter-book build --all docs/
+	$(VENV_NAME)/bin/jupyter-book build --all docs/
