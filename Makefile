@@ -24,3 +24,7 @@ clean:
 .PHONY: html
 html:
 	$(VENV_NAME)/bin/jupyter-book build --all docs/
+
+.PHONY: ci
+ci:
+	jupyter-book build --all docs/
