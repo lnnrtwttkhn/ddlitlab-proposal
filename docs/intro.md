@@ -9,7 +9,18 @@ Website: https://lennartwittkuhn.com/ddlitlab
 [![PDF](https://img.shields.io/badge/Antrag-PDF-<COLOR>.svg)](https://github.com/lnnrtwttkhn/ddtlitlab/releases/download/submission/DDLitLab_Antragsformular_2023_Wittkuhn_Schuck_Git_Unsigned.pdf)
 [![Website https://lennartwittkuhn.com/ddlitlab](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://lennartwittkuhn.com/ddlitlab)
 
-```{admonition} Our project receives ~ 50,000 Euro funding from the DDLitLab initiative!
+## News
+
+```{admonition} Mar 2023: Work with us! We are hiring a student research assistant (SHK / WHK)!
+:class: tip
+We are hiring a student research assistant (SHK / WHK)!
+Details can be found [here](ausschreibung_whk.md).
+- 🗓 Duration: 01.06.2023 to 31.03.2024 (10 months)
+- 🕐 32 hours / month
+- 💰 12,00 Euro / hour (SHK), 13,95 Euro / hour (WHK)
+```
+
+```{admonition} Dec 2022: Our project receives ~ 50,000 Euro funding from the DDLitLab initiative!
 :class: tip
 Great news! Our [proposal](https://github.com/lnnrtwttkhn/ddtlitlab/releases/download/submission/DDLitLab_Antragsformular_2023_Wittkuhn_Schuck_Git_Unsigned.pdf) for a full-semester course on "Version control of code and data with Git and DataLad" was accepted and receives ~ 50,000 Euro funding through the Digital and Data Literacy in Teaching Lab ([DDLitLab](https://www.isa.uni-hamburg.de/en/ddlitlab.html)) initiative at the University of Hamburg!
 ```
