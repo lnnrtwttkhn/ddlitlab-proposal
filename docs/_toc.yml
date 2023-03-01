@@ -20,4 +20,8 @@ parts:
     - file: timeline
     - file: lehrplan
     - file: ressourcen
+  - caption: Jobs
+    numbered: false
+    chapters:
     - file: ausschreibung_whk
+      title: SHK / WHK
