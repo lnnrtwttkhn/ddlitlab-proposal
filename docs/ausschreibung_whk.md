@@ -62,7 +62,7 @@ Außerdem wünschen wir uns, wenn möglich:
 - Programmierkenntnisse (insbesondere Python und / oder R)
 - Erfahrungen mit Online Survey Tools (z.B. Qualtrics, LimeSurvey, etc.)
 - Interesse an wissenschaftlichen Themen und Fragestellungen der Psychologie und Kognitiven Neurowissenschaften
-- Interesse an der Mitgestaltung der Data Literacy Education an der UHH
+- Interesse an der Mitgestaltung von Lehrveranstaltungen
 
 ### Ihre Bewerbung
 
