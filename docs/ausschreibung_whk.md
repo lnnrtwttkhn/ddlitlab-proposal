@@ -34,9 +34,9 @@ Zur Einstellung ist eine aktuelle Immatrikulationsbescheinigung vorzulegen.
 
 ### Ihre Aufgaben
 
-- Unterstützung bei der Vorbereitung von Lehrveranstaltungen und Lehrmaterialien
-- Konzeption, Vorbereitung und Auswertung einer kontinuierlichen Evaluation der Lehrveranstaltung
-- Dokumentation und Veröffentlichung der Lehr-Lern-Ressourcen als Open Educational Resources (OED)
+- Mitarbeit an der Vorbereitung von Lehrveranstaltungen und Lehrmaterialien
+- Mitwirkung bei der Konzeption, Vorbereitung und Auswertung einer kontinuierlichen Evaluation von Lehrveranstaltungen
+- Beteiligung an der Dokumentation und Veröffentlichung der Lehr-Lern-Ressourcen als Open Educational Resources (OED)
 - Unterstützung bei der Projektevaluation und Erstellung von Projektberichten und Präsentationen
 
 ### Wir bieten
