@@ -14,10 +14,6 @@ In einem Seminar mit praktischen Übungen erlernen Studierende "Versionskontroll
 Versionskontrolle ermöglicht, Veränderungen in digitalen Objekten präzise zu dokumentieren, parallele Versionen miteinander zu vergleichen, wiederherzustellen und zu integrieren.
 Versionierte digitale Objekte können zudem mit der Welt geteilt, von anderen transparent eingesehen, genutzt und kollaborativ weiterentwickelt werden.
 Damit trägt Versionskontrolle dazu bei, dass aus Daten generiertes Wissen transparent, zugänglich und verifizierbar ist.
-Als effektive Methode zur Speicherung und Bearbeitung von Code und Daten stellt Versionskontrolle damit eine Kernkompetenz der Data Literacy dar.
-Der kompetente und kritische Umgang mit Code und Daten ist im 21. Jahrhundert eine zentrale Kompetenz für Hochschulabsolvent:innen aus allen Disziplinen.
-Das Projekt "Versionskontrolle von Code und Daten mit Git und DataLad" wird durch das [Digital and Data Literacy in Teaching Lab (DDLitlab)](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html) der Universität Hamburg gefördert.
-Ziel der Projektförderung ist es, Data Literacy mit fachspezifischen fachübergreifenden und transferorientierten Lehrveranstaltungen stärker im Studium zu verankern.
 Details zum Projekt finden sich auf der Projektwebsite unter [https://lennartwittkuhn.com/ddlitlab/](https://lennartwittkuhn.com/ddlitlab/).
 
 Der Beginn der Tätigkeit ist für den **01.06.2023** avisiert.
@@ -34,14 +30,13 @@ Zur Einstellung ist eine aktuelle Immatrikulationsbescheinigung vorzulegen.
 
 ### Ihre Aufgaben
 
-- Unterstützung bei der Vorbereitung von Lehrveranstaltungen und Lehrmaterialien
-- Konzeption, Vorbereitung und Auswertung einer kontinuierlichen Evaluation der Lehrveranstaltung
-- Dokumentation und Veröffentlichung der Lehr-Lern-Ressourcen als Open Educational Resources (OED)
+- Mitarbeit an der Vorbereitung von Lehrveranstaltungen und Lehrmaterialien
+- Mitwirkung bei der Konzeption, Vorbereitung und Auswertung einer kontinuierlichen Evaluation von Lehrveranstaltungen
+- Beteiligung an der Dokumentation und Veröffentlichung der Lehr-Lern-Ressourcen als Open Educational Resources (OED)
 - Unterstützung bei der Projektevaluation und Erstellung von Projektberichten und Präsentationen
 
 ### Wir bieten
 
-- Bezahlung entsprechend der üblichen Vergütung für studentische / wissenschaftliche Hilfskräfte (12,00 €/Stunde für Studierende im Bachelor- und 13,95 €/Stunde für Studierende im Masterstudium)
 - Möglichkeiten zum Erwerb methodischer Expertise (v.a. in den Bereichen Versionskontrolle, Programmierung und der Implementierung von Online-Befragungen)
 - Flexible Arbeitszeiten (mit Option auf Home und Mobile Office)
 - Abwechslungsreiches Tätigkeitsfeld
@@ -52,7 +47,7 @@ Zur Einstellung ist eine aktuelle Immatrikulationsbescheinigung vorzulegen.
 
 Folgendes bringen Sie für eine Tätigkeit bei uns mit:
 
-- Immatrikulation in einem Bachelor- (höheres Fachsemester) oder Masterstudiengang an einer deutschen Hochschule
+- Immatrikulation in einem Bachelor- (höheres Fachsemester) oder Masterstudiengang an der Universität Hamburg
 - Gute Deutsch- und Englischkenntnisse in Wort und Schrift
 - Sorgfältige, strukturierte, selbstständige Arbeitsweise
 - Bereitschaft, sich in neue Tätigkeitsfelder einzuarbeiten
@@ -63,7 +58,7 @@ Außerdem wünschen wir uns, wenn möglich:
 - Programmierkenntnisse (insbesondere Python und / oder R)
 - Erfahrungen mit Online Survey Tools (z.B. Qualtrics, LimeSurvey, etc.)
 - Interesse an wissenschaftlichen Themen und Fragestellungen der Psychologie und Kognitiven Neurowissenschaften
-- Interesse an der Mitgestaltung der Data Literacy Education an der UHH
+- Interesse an der Mitgestaltung von Lehrveranstaltungen
 
 ### Ihre Bewerbung
 
