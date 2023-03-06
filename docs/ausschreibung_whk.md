@@ -47,7 +47,7 @@ Zur Einstellung ist eine aktuelle Immatrikulationsbescheinigung vorzulegen.
 
 Folgendes bringen Sie für eine Tätigkeit bei uns mit:
 
-- Immatrikulation in einem Bachelor- (höheres Fachsemester) oder Masterstudiengang an einer deutschen Hochschule
+- Immatrikulation in einem Bachelor- (höheres Fachsemester) oder Masterstudiengang an der Universität Hamburg
 - Gute Deutsch- und Englischkenntnisse in Wort und Schrift
 - Sorgfältige, strukturierte, selbstständige Arbeitsweise
 - Bereitschaft, sich in neue Tätigkeitsfelder einzuarbeiten
