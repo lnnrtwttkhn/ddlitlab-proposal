@@ -14,10 +14,6 @@ In einem Seminar mit praktischen Übungen erlernen Studierende "Versionskontroll
 Versionskontrolle ermöglicht, Veränderungen in digitalen Objekten präzise zu dokumentieren, parallele Versionen miteinander zu vergleichen, wiederherzustellen und zu integrieren.
 Versionierte digitale Objekte können zudem mit der Welt geteilt, von anderen transparent eingesehen, genutzt und kollaborativ weiterentwickelt werden.
 Damit trägt Versionskontrolle dazu bei, dass aus Daten generiertes Wissen transparent, zugänglich und verifizierbar ist.
-Als effektive Methode zur Speicherung und Bearbeitung von Code und Daten stellt Versionskontrolle damit eine Kernkompetenz der Data Literacy dar.
-Der kompetente und kritische Umgang mit Code und Daten ist im 21. Jahrhundert eine zentrale Kompetenz für Hochschulabsolvent:innen aus allen Disziplinen.
-Das Projekt "Versionskontrolle von Code und Daten mit Git und DataLad" wird durch das [Digital and Data Literacy in Teaching Lab (DDLitlab)](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html) der Universität Hamburg gefördert.
-Ziel der Projektförderung ist es, Data Literacy mit fachspezifischen fachübergreifenden und transferorientierten Lehrveranstaltungen stärker im Studium zu verankern.
 Details zum Projekt finden sich auf der Projektwebsite unter [https://lennartwittkuhn.com/ddlitlab/](https://lennartwittkuhn.com/ddlitlab/).
 
 Der Beginn der Tätigkeit ist für den **01.06.2023** avisiert.
