@@ -41,7 +41,6 @@ Zur Einstellung ist eine aktuelle Immatrikulationsbescheinigung vorzulegen.
 
 ### Wir bieten
 
-- Bezahlung entsprechend der üblichen Vergütung für studentische / wissenschaftliche Hilfskräfte (12,00 €/Stunde für Studierende im Bachelor- und 13,95 €/Stunde für Studierende im Masterstudium)
 - Möglichkeiten zum Erwerb methodischer Expertise (v.a. in den Bereichen Versionskontrolle, Programmierung und der Implementierung von Online-Befragungen)
 - Flexible Arbeitszeiten (mit Option auf Home und Mobile Office)
 - Abwechslungsreiches Tätigkeitsfeld
