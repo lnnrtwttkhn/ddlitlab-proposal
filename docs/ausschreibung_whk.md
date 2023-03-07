@@ -2,7 +2,7 @@
 
 ## Ausschreibung UHH
 
-Im [Arbeitsbereich "Lern- und Veränderungsmechanismen"](https://www.psy.uni-hamburg.de/arbeitsbereiche/lern-und-veraenderungsmechanismen.html) (Leitung: Prof. Dr. Nicolas Schuck) am [Institut für Psychologie](https://www.psy.uni-hamburg.de/) der Universität Hamburg  suchen wir für das Projekt **"Versionskontrolle von Code und Daten mit Git und DataLad"** im Rahmen einer Förderung durch das ["Digital and Data Literacy in Teaching Lab" (DDLitlab)](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html) unter der Leitung von [Dr. Lennart Wittkuhn](https://lennartwittkuhn.com/) **vom 01.06.2023** bis **zum 31.03.2024** (Dauer: 10 Monate):
+Im [Arbeitsbereich "Lern- und Veränderungsmechanismen"](https://www.psy.uni-hamburg.de/arbeitsbereiche/lern-und-veraenderungsmechanismen.html) (Leitung: Prof. Dr. Nicolas Schuck) am [Institut für Psychologie](https://www.psy.uni-hamburg.de/) der Universität Hamburg suchen wir für das Projekt **"Versionskontrolle von Code und Daten mit Git und DataLad"** im Rahmen einer Förderung durch das ["Digital and Data Literacy in Teaching Lab" (DDLitlab)](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html) unter der Leitung von [Dr. Lennart Wittkuhn](https://lennartwittkuhn.com/) **vom 01.06.2023** bis **zum 31.03.2024** (Dauer: 10 Monate):
 
 <p style="text-align: center;"><b>eine studentische oder wissenschaftliche Hilfskraft (w/m/d)</b></p>
 <p style="text-align: center;">(für 32 Stunden pro Monat)</p>
@@ -31,14 +31,14 @@ Zur Einstellung ist eine aktuelle Immatrikulationsbescheinigung vorzulegen.
 ### Ihre Aufgaben
 
 - Mitarbeit an der Vorbereitung von Lehrveranstaltungen und Lehrmaterialien
-- Mitwirkung bei der Konzeption, Vorbereitung und Auswertung einer kontinuierlichen Evaluation von Lehrveranstaltungen
+- Mitarbeit an der Konzeption, Vorbereitung und Auswertung einer kontinuierlichen Evaluation von Lehrveranstaltungen
 - Beteiligung an der Dokumentation und Veröffentlichung der Lehr-Lern-Ressourcen als Open Educational Resources (OED)
 - Unterstützung bei der Projektevaluation und Erstellung von Projektberichten und Präsentationen
 
 ### Wir bieten
 
 - Möglichkeiten zum Erwerb methodischer Expertise (v.a. in den Bereichen Versionskontrolle, Programmierung und der Implementierung von Online-Befragungen)
-- Flexible Arbeitszeiten (mit Option auf Home und Mobile Office)
+- Flexible Arbeitszeiten (mit Option auf Home- und Mobile-Office)
 - Abwechslungsreiches Tätigkeitsfeld
 - Einblicke in die psychologische und neurowissenschaftliche Forschung
 - Möglichkeit, gestaltend an der Data Literacy Education der Universität Hamburg mitzuwirken
