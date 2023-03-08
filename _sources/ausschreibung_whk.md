@@ -25,7 +25,6 @@ Die Vergütung beträgt:
 - 12,00 Euro/Stunde mit Vertrag als studentische Hilfskraft (ohne Bachelor-Abschluss)
 - 13,95 Euro/Stunde mit Vertrag als wissenschaftliche Hilfskraft (mit Bachelor-Abschluss)
 
-Eine Weiterführung der Tätigkeit innerhalb des [Arbeitsbereich "Lern- und Veränderungsmechanismen"](https://www.psy.uni-hamburg.de/arbeitsbereiche/lern-und-veraenderungsmechanismen.html) über den Projektzeitraum hinaus ist nach Absprache und unter der Voraussetzung verfügbarer Mittel möglich.
 Zur Einstellung ist eine aktuelle Immatrikulationsbescheinigung vorzulegen.
 
 ### Ihre Aufgaben
