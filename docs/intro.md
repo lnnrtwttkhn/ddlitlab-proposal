@@ -1,8 +1,7 @@
 # DDLitLab Proposal
 
-Titel: **"Versionskontrolle von Code und Daten mit Git und DataLad"**
-
-Website: https://lennartwittkuhn.com/ddlitlab
+Titel (🇩🇪): **"Versionskontrolle von Code und Daten mit Git und DataLad"**</br>
+Title (🇺🇸): **"Version control of code and data with Git and DataLad"**</br>
 
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/lnnrtwttkhn/ddtlitlab)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -14,15 +13,22 @@ Website: https://lennartwittkuhn.com/ddlitlab
 ```{admonition} Mar 2023: Work with us! We are hiring a student research assistant (SHK / WHK)!
 :class: tip
 We are hiring a student research assistant (SHK / WHK)!
-Details can be found [here](ausschreibung_whk.md).
+
 - 🗓 Duration: 01.06.2023 to 31.03.2024 (10 months)
-- 🕐 32 hours / month
+- 🕐 32 hours / month (flexible working hours)
 - 💰 12,00 Euro / hour (SHK), 13,95 Euro / hour (WHK)
+
+Details can be found [here](ausschreibung_whk.md) (in German 🇩🇪).
 ```
 
-```{admonition} Dec 2022: Our project receives ~ 50,000 Euro funding from the DDLitLab initiative!
+```{admonition} Dec 2022: Our project receives 50,000 Euro funding from the DDLitLab initiative!
 :class: tip
-Great news! Our [proposal](https://github.com/lnnrtwttkhn/ddtlitlab/releases/download/submission/DDLitLab_Antragsformular_2023_Wittkuhn_Schuck_Git_Unsigned.pdf) for a full-semester course on "Version control of code and data with Git and DataLad" was accepted and receives ~ 50,000 Euro funding through the Digital and Data Literacy in Teaching Lab ([DDLitLab](https://www.isa.uni-hamburg.de/en/ddlitlab.html)) initiative at the University of Hamburg!
+Great news!
+Our [proposal](https://github.com/lnnrtwttkhn/ddtlitlab/releases/download/submission/DDLitLab_Antragsformular_2023_Wittkuhn_Schuck_Git_Unsigned.pdf) for a full-semester course on "Version control of code and data with Git and DataLad" was accepted and receives 50,000 Euro funding through the Digital and Data Literacy in Teaching Lab ([DDLitLab](https://www.isa.uni-hamburg.de/en/ddlitlab.html)) initiative at the University of Hamburg!
+We are very excited to start working on this project! 🎉
+```
+
+```{admonition} November 2022: Our proposal was accepted!
 ```
 
 ## About
@@ -35,15 +41,10 @@ Details can be found on the [DDLitLab website](https://www.isa.uni-hamburg.de/en
 
 You can download the {Download}`feedback on our proposal<../data/feedback.pdf>` from two reviewers.
 
-## Contents
-
-```{tableofcontents}
-```
-
 ## Maintainer
 
 [Lennart Wittkuhn](mailto:lennart.wittkuhn@uni-hamburg.de)
 
 ## License
 
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
