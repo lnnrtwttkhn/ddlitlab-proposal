@@ -63,7 +63,7 @@ Außerdem wünschen wir uns, wenn möglich:
 
 Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen - unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.
 
-Bitte richten Sie Ihre vollständigen Bewerbungsunterlagen (tabellarischer Lebenslauf **ohne Foto**, Motivationsschreiben (max. 1 Seite), aktuelle Semester-/Immatrikulationsbescheinigung, Hochschulzeugnisse oder Transkript of Records bzw. einfacher Ausdruck des Leistungskontos, ggf. Zeugnisse oder Nachweise über relevante praktische Tätigkeiten) vorzugsweise in **einer PDF-Datei** und per **E-Mail** bis zum **XX.XX.XXXX** an:
+Bitte richten Sie Ihre vollständigen Bewerbungsunterlagen (tabellarischer Lebenslauf **ohne Foto**, Motivationsschreiben (max. 1 Seite), aktuelle Semester-/Immatrikulationsbescheinigung, Hochschulzeugnisse oder Transkript of Records bzw. einfacher Ausdruck des Leistungskontos, ggf. Zeugnisse oder Nachweise über relevante praktische Tätigkeiten) vorzugsweise in **einer PDF-Datei** und per **E-Mail** bis zum **03.04.2023** an:
 
 **Dr. Lennart Wittkuhn**</br>
 Von-Melle-Park 5, Raum 4070, 20146 Hamburg</br>
@@ -118,7 +118,7 @@ TBA
 
 - Beschäftigungsart: Studentische Hilfskraft
 - Beschäftigungsumfang: Nach Vereinbarung
-- Bewerbungsfrist: tba
+- Bewerbungsfrist: 03.04.2023
 - Standorte: Hamburg
 
 ### Auswahl über die Bewerbungsform über das Stellenwerk
