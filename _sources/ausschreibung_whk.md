@@ -1,5 +1,10 @@
 # SHK / WHK gesucht!
 
+```{admonition} PDF-Version der Stellenausschreibung
+:class: note
+{Download}`Download<../data/job_shk_whk_ddlitlab_git.pdf>`
+```
+
 ## Ausschreibung UHH
 
 Im [Arbeitsbereich "Lern- und Veränderungsmechanismen"](https://www.psy.uni-hamburg.de/arbeitsbereiche/lern-und-veraenderungsmechanismen.html) (Leitung: Prof. Dr. Nicolas Schuck) am [Institut für Psychologie](https://www.psy.uni-hamburg.de/) der Universität Hamburg suchen wir für das Projekt **"Versionskontrolle von Code und Daten mit Git und DataLad"** im Rahmen einer Förderung durch das ["Digital and Data Literacy in Teaching Lab" (DDLitlab)](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html) unter der Leitung von [Dr. Lennart Wittkuhn](https://lennartwittkuhn.com/) **vom 01.06.2023** bis **zum 31.03.2024** (Dauer: 10 Monate):
@@ -112,7 +117,7 @@ Siehe [Ihr Profil](#ihr-profil) oben.
 
 ### PDF-Stellenausschreibung
 
-TBA
+{Download}`PDF-Version der Stellenausschreibung<../data/job_shk_whk_ddlitlab_git.pdf>`
 
 ### Stellenmerkmale
 
