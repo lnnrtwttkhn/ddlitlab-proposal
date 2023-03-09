@@ -15,8 +15,8 @@ Title (🇺🇸): **"Version control of code and data with Git and DataLad"**</b
 We are hiring a student research assistant (SHK / WHK)!
 
 - 🗓 Duration: 01.06.2023 to 31.03.2024 (10 months)
-- 🕐 32 hours / month (flexible working hours)
-- 💰 12,00 Euro / hour (SHK), 13,95 Euro / hour (WHK)
+- 🕐 Hours: 32 hours / month (flexible working hours)
+- 💰 Salary: 12,00 Euro / hour (SHK), 13,95 Euro / hour (WHK)
 
 Details can be found [here](ausschreibung_whk.md) (in German 🇩🇪).
 ```

@@ -1,8 +1,13 @@
 # SHK / WHK gesucht!
 
-```{admonition} PDF-Version der Stellenausschreibung
-:class: note
-{Download}`Download<../data/job_shk_whk_ddlitlab_git.pdf>`
+```{admonition} Informationen auf einen Blick
+:class: tip
+
+- 🗓 Dauer: 01.06.2023 bis 31.03.2024 (10 Monate)
+- 🕐 Stunden: 32 Stunden / Monat (flexible Arbeitszeiten)
+- 💰 Gehalt: 12,00 Euro / Stunde (SHK), 13,95 Euro / Stunde (WHK)
+- 📰 Anzeige auf [Stellenwerk](https://www.stellenwerk.de/hamburg/jobboerse/shkwhk-zur-mitarbeit-im-lehrlabor-projekt-versionskontrolle-von-code-und-daten-mit-git-und-datalad-an-der-uni-hamburg-230309-137531/)
+- 📄 {Download}`PDF-Version der Stellenausschreibung<../data/job_shk_whk_ddlitlab_git.pdf>`
 ```
 
 ## Ausschreibung UHH
