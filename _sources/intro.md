@@ -10,6 +10,13 @@ Title (🇺🇸): **"Version control of code and data with Git and DataLad"**</b
 
 ## News
 
+```{admonition} Mar 2023: [Course website](https://lennartwittkuhn.com/versioncontrol-course-uhh-ws23/) live!
+:class: tip
+Our [course website](https://lennartwittkuhn.com/versioncontrol-course-uhh-ws23/) is live!
+This website will be updated continuously with new information and teaching materials.
+Stay tuned!
+```
+
 ```{admonition} Mar 2023: Work with us! We are hiring a student research assistant (SHK / WHK)!
 :class: tip
 We are hiring a student research assistant (SHK / WHK)!
