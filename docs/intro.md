@@ -7,6 +7,7 @@ Title (🇺🇸): **"Version control of code and data with Git and DataLad"**</b
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![PDF](https://img.shields.io/badge/Antrag-PDF-<COLOR>.svg)](https://github.com/lnnrtwttkhn/ddtlitlab/releases/download/submission/DDLitLab_Antragsformular_2023_Wittkuhn_Schuck_Git_Unsigned.pdf)
 [![Website https://lennartwittkuhn.com/ddlitlab](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://lennartwittkuhn.com/ddlitlab)
+[![DOI](https://zenodo.org/badge/558306349.svg)](https://zenodo.org/badge/latestdoi/558306349)
 
 ## News
 
