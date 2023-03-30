@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Wittkuhn
+    given-names: Lennart
+    orcid: https://orcid.org/0000-0003-2966-6888
+  - family-names: Schuck
+    given-names: Nicolas W.
+    orcid: https://orcid.org/0000-0002-0150-8776
+title: lnnrtwttkhn/ddlitlab: DDLitLab Proposal Final
+version: final
+date-released: 2023-03-30
