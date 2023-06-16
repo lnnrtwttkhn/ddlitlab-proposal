@@ -34,4 +34,4 @@ html:
   use_issues_button: true
   use_repository_button: true
   extra_footer: |
-    <script defer data-domain="lennartwittkuhn.com/ddlitlab" src="https://plausible.io/js/script.js"></script>
+    <script defer data-domain="lennartwittkuhn.com/ddlitlab-proposal" src="https://plausible.io/js/script.js"></script>
