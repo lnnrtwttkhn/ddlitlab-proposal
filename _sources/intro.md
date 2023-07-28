@@ -11,6 +11,17 @@ Title (🇺🇸): **"Version control of code and data with Git and DataLad"**</b
 
 ## News
 
+```{admonition} Jul 2023: Work with us! We are hiring a tutor!
+:class: tip
+We are hiring a stutor!
+
+- 🗓 Duration: 09.10.2023 to 27.01.2024 (ca. 3,5 months)
+- 🕐 Hours: 90 minutes per week (bound to class hours)
+- 💰 Salary:  270,88 Euro / month
+
+Details can be found [here](ausschreibung_whk.md) (in German 🇩🇪).
+```
+
 ```{admonition} Mar 2023: [Course website](https://lennartwittkuhn.com/versioncontrol-course-uhh-ws23/) live!
 :class: tip
 Our [course website](https://lennartwittkuhn.com/versioncontrol-course-uhh-ws23/) is live!
