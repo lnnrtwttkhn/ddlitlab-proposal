@@ -11,13 +11,13 @@ Title (🇺🇸): **"Version control of code and data with Git and DataLad"**</b
 
 ## News
 
-```{admonition} Jul 2023: Work with us! We are hiring a tutor!
+```{admonition} Aug 2023: Work with us! We are hiring another student research assisstant!
 :class: tip
-We are hiring a stutor!
+We are hiring a student research assistant (SHK / WHK)!
 
-- 🗓 Duration: 09.10.2023 to 27.01.2024 (ca. 3,5 months)
-- 🕐 Hours: 90 minutes per week (bound to class hours)
-- 💰 Salary:  270,88 Euro / month
+- 🗓 Duration: 01.10.2023 to 31.03.2024 (6 months)
+- 🕐 Hours: 32 hours / month (flexible working hours)
+- 💰 Salary: 12,00 Euro / hour (SHK), 13,95 Euro / hour (WHK)
 
 Details can be found [here](ausschreibung_whk.md) (in German 🇩🇪).
 ```

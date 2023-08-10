@@ -3,30 +3,30 @@
 ```{admonition} Informationen auf einen Blick
 :class: tip
 
-- 🗓 Dauer: 01.06.2023 bis 31.03.2024 (10 Monate)
+- 🗓 Dauer: 01.10.2023 bis 31.03.2024 (6 Monate)
 - 🕐 Stunden: 32 Stunden / Monat (flexible Arbeitszeiten)
 - 💰 Gehalt: 12,00 Euro / Stunde (SHK), 13,95 Euro / Stunde (WHK)
 - 📰 Anzeige auf [Stellenwerk](https://www.stellenwerk.de/hamburg/jobboerse/shkwhk-zur-mitarbeit-im-lehrlabor-projekt-versionskontrolle-von-code-und-daten-mit-git-und-datalad-an-der-uni-hamburg-230309-137531/)
-- 📄 {Download}`PDF-Version der Stellenausschreibung<../data/job_shk_whk_ddlitlab_git.pdf>`
+- 📄 {Download}`PDF-Version der Stellenausschreibung<../data/job_shk_whk_ddlitlab_git_winter.pdf>`
 ```
 
 ## Ausschreibung UHH
 
-Im [Arbeitsbereich "Lern- und Veränderungsmechanismen"](https://www.psy.uni-hamburg.de/arbeitsbereiche/lern-und-veraenderungsmechanismen.html) (Leitung: Prof. Dr. Nicolas Schuck) am [Institut für Psychologie](https://www.psy.uni-hamburg.de/) der Universität Hamburg suchen wir für das Projekt **"Versionskontrolle von Code und Daten mit Git und DataLad"** im Rahmen einer Förderung durch das ["Digital and Data Literacy in Teaching Lab" (DDLitlab)](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html) unter der Leitung von [Dr. Lennart Wittkuhn](https://lennartwittkuhn.com/) **vom 01.06.2023** bis **zum 31.03.2024** (Dauer: 10 Monate):
+Im [Arbeitsbereich "Lern- und Veränderungsmechanismen"](https://www.psy.uni-hamburg.de/arbeitsbereiche/lern-und-veraenderungsmechanismen.html) (Leitung: Prof. Dr. Nicolas Schuck) am [Institut für Psychologie](https://www.psy.uni-hamburg.de/) der Universität Hamburg suchen wir für das Projekt **"Versionskontrolle von Code und Daten"** im Rahmen einer Förderung durch das ["Digital and Data Literacy in Teaching Lab" (DDLitlab)](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html) unter der Leitung von [Dr. Lennart Wittkuhn](https://lennartwittkuhn.com/) **vom 01.10.2023** bis **zum 31.03.2024** (Dauer: 6 Monate):
 
 <p style="text-align: center;"><b>eine studentische oder wissenschaftliche Hilfskraft (w/m/d)</b></p>
 <p style="text-align: center;">(für 32 Stunden pro Monat)</p>
 
 ### Das Projekt
 
-Ziel des Projekts "Versionskontrolle von Code und Daten mit Git und DataLad" ist die Umsetzung eines innovativen Lehrkonzepts am Institut für Psychologie.
-In einem Seminar mit praktischen Übungen erlernen Studierende "Versionskontrolle von Code und Daten mit Git und DataLad".
+Ziel des Projekts "Versionskontrolle von Code und Daten" ist die Umsetzung eines innovativen Lehrkonzepts am Institut für Psychologie.
+In einem Seminar mit praktischen Übungen erlernen Studierende "Versionskontrolle von Code und Daten".
 Versionskontrolle ermöglicht, Veränderungen in digitalen Objekten präzise zu dokumentieren, parallele Versionen miteinander zu vergleichen, wiederherzustellen und zu integrieren.
 Versionierte digitale Objekte können zudem mit der Welt geteilt, von anderen transparent eingesehen, genutzt und kollaborativ weiterentwickelt werden.
 Damit trägt Versionskontrolle dazu bei, dass aus Daten generiertes Wissen transparent, zugänglich und verifizierbar ist.
-Details zum Projekt finden sich auf der Projektwebsite unter [https://lennartwittkuhn.com/ddlitlab/](https://lennartwittkuhn.com/ddlitlab/).
+Weitere Details zum Projekt finden sich auf der Projektwebsite unter [https://lennartwittkuhn.com/ddlitlab-proposal/](https://lennartwittkuhn.com/ddlitlab-proposal/). Die Kurs-Website findet sich unter [https://lennartwittkuhn.com/version-control-course-uhh-ws23/](https://lennartwittkuhn.com/version-control-course-uhh-ws23/).
 
-Der Beginn der Tätigkeit ist für den **01.06.2023** avisiert.
+Der Beginn der Tätigkeit ist für den **01.10.2023** avisiert.
 Die Mitarbeit ist bis zum **31.03.2024** befristet.
 Der Arbeitsumfang beträgt 32 Stunden/Monat.
 Eine flexible Einteilung der Arbeitsstunden nach Absprache ist möglich.
@@ -46,7 +46,7 @@ Zur Einstellung ist eine aktuelle Immatrikulationsbescheinigung vorzulegen.
 
 ### Wir bieten
 
-- Möglichkeiten zum Erwerb methodischer Expertise (v.a. in den Bereichen Versionskontrolle, Programmierung und der Implementierung von Online-Befragungen)
+- Möglichkeiten zum Erwerb methodischer Expertise Expertise (v.a. in den Bereichen Versionskontrolle, Programmierung, Implementierung und Analyse von Online-Befragungen, Open Science)
 - Flexible Arbeitszeiten (mit Option auf Home- und Mobile-Office)
 - Abwechslungsreiches Tätigkeitsfeld
 - Einblicke in die psychologische und neurowissenschaftliche Forschung
@@ -65,7 +65,7 @@ Außerdem wünschen wir uns, wenn möglich:
 
 - Erste Erfahrungen mit Versionskontrollsystemen (insbesondere Git)
 - Programmierkenntnisse (insbesondere Python und / oder R)
-- Erfahrungen mit Online Survey Tools (z.B. Qualtrics, LimeSurvey, etc.)
+- Erfahrungen mit Online Survey Tools (z.B. Qualtrics, LimeSurvey, formR etc.)
 - Interesse an wissenschaftlichen Themen und Fragestellungen der Psychologie und Kognitiven Neurowissenschaften
 - Interesse an der Mitgestaltung von Lehrveranstaltungen
 
@@ -73,7 +73,7 @@ Außerdem wünschen wir uns, wenn möglich:
 
 Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen - unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.
 
-Bitte richten Sie Ihre vollständigen Bewerbungsunterlagen (tabellarischer Lebenslauf **ohne Foto**, Motivationsschreiben (max. 1 Seite), aktuelle Semester-/Immatrikulationsbescheinigung, Hochschulzeugnisse oder Transkript of Records bzw. einfacher Ausdruck des Leistungskontos, ggf. Zeugnisse oder Nachweise über relevante praktische Tätigkeiten) vorzugsweise in **einer PDF-Datei** und per **E-Mail** bis zum <del>**03.04.2023**</del> **10.04.2023 (Frist verlängert!)** an:
+Bitte richten Sie Ihre vollständigen Bewerbungsunterlagen (tabellarischer Lebenslauf **ohne Foto**, Motivationsschreiben (max. 1 Seite), aktuelle Semester-/Immatrikulationsbescheinigung, Hochschulzeugnisse oder Transkript of Records bzw. einfacher Ausdruck des Leistungskontos, ggf. Zeugnisse oder Nachweise über relevante praktische Tätigkeiten) vorzugsweise in **einer PDF-Datei** und per **E-Mail** bis zum **23.08.2023** an:
 
 **Dr. Lennart Wittkuhn**</br>
 Von-Melle-Park 5, Raum 4070, 20146 Hamburg</br>
@@ -88,7 +88,7 @@ Dieser Abschnitt listet die benötigten Informationen für eine Ausschreibung de
 
 ### Anzeigentitel
 
-Studentische/wissenschaftliche Hilfskraft (SHK/WHK) zur Mitarbeit im Lehrlabor-Projekt "Versionskontrolle von Code und Daten mit Git und DataLad" an der Uni Hamburg
+Studentische/wissenschaftliche Hilfskraft (SHK/WHK) zur Mitarbeit im Lehrlabor-Projekt "Versionskontrolle von Code und Daten" an der Uni Hamburg
 
 ### Stellenbeschreibung
 
@@ -122,13 +122,13 @@ Siehe [Ihr Profil](#ihr-profil) oben.
 
 ### PDF-Stellenausschreibung
 
-{Download}`PDF-Version der Stellenausschreibung<../data/job_shk_whk_ddlitlab_git.pdf>`
+{Download}`PDF-Version der Stellenausschreibung<../data/job_shk_whk_ddlitlab_git_winter.pdf>`
 
 ### Stellenmerkmale
 
 - Beschäftigungsart: Studentische Hilfskraft
 - Beschäftigungsumfang: Nach Vereinbarung
-- Bewerbungsfrist: 10.04.2023
+- Bewerbungsfrist: 23.08.2023
 - Standorte: Hamburg
 
 ### Auswahl über die Bewerbungsform über das Stellenwerk
