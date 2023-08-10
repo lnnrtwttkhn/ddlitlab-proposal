@@ -23,7 +23,7 @@ parts:
   - caption: Jobs
     numbered: false
     chapters:
-    - file: ausschreibung_tutor
-      title: Tutorin / Tutor
+    # - file: ausschreibung_tutor
+    #   title: Tutorin / Tutor
     - file: ausschreibung_whk
       title: SHK / WHK
