@@ -3,19 +3,19 @@
 ```{admonition} Informationen auf einen Blick
 :class: tip
 
-- 🗓 Dauer: 01.10.2023 bis 31.03.2024 (6 Monate)
-- 🕐 Stunden: 32 Stunden / Monat (flexible Arbeitszeiten)
+- 🗓 Dauer: 16.10.2023 bis 31.03.2024 (5,5 Monate)
+- 🕐 Stunden: 38 Stunden / Monat (flexible Arbeitszeiten)
 - 💰 Gehalt: 12,00 Euro / Stunde (SHK), 13,95 Euro / Stunde (WHK)
-- 📰 Anzeige auf [Stellenwerk](https://www.stellenwerk.de/hamburg/jobboerse/shkwhk-zur-mitarbeit-im-lehrlabor-projekt-versionskontrolle-von-code-und-daten-mit-git-und-datalad-an-der-uni-hamburg-230309-137531/)
+- 📰 Anzeige auf [Stellenwerk](https://www.stellenwerk.de/hamburg/jobboerse/shkwhk-zur-mitarbeit-im-lehrlabor-projekt-versionskontrolle-von-code-und-daten-mit-git-und-datalad-an-der-uni-hamburg-230817-157191/)
 - 📄 {Download}`PDF-Version der Stellenausschreibung<../data/job_shk_whk_ddlitlab_git_winter.pdf>`
 ```
 
 ## Ausschreibung UHH
 
-Im [Arbeitsbereich "Lern- und Veränderungsmechanismen"](https://www.psy.uni-hamburg.de/arbeitsbereiche/lern-und-veraenderungsmechanismen.html) (Leitung: Prof. Dr. Nicolas Schuck) am [Institut für Psychologie](https://www.psy.uni-hamburg.de/) der Universität Hamburg suchen wir für das Projekt **"Versionskontrolle von Code und Daten"** im Rahmen einer Förderung durch das ["Digital and Data Literacy in Teaching Lab" (DDLitlab)](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html) unter der Leitung von [Dr. Lennart Wittkuhn](https://lennartwittkuhn.com/) **vom 01.10.2023** bis **zum 31.03.2024** (Dauer: 6 Monate):
+Im [Arbeitsbereich "Lern- und Veränderungsmechanismen"](https://www.psy.uni-hamburg.de/arbeitsbereiche/lern-und-veraenderungsmechanismen.html) (Leitung: Prof. Dr. Nicolas Schuck) am [Institut für Psychologie](https://www.psy.uni-hamburg.de/) der Universität Hamburg suchen wir für das Projekt **"Versionskontrolle von Code und Daten"** im Rahmen einer Förderung durch das ["Digital and Data Literacy in Teaching Lab" (DDLitlab)](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/projektfoerderung.html) unter der Leitung von [Dr. Lennart Wittkuhn](https://lennartwittkuhn.com/) **vom 16.10.2023** bis **zum 31.03.2024** (Dauer: 5,5 Monate):
 
 <p style="text-align: center;"><b>eine studentische oder wissenschaftliche Hilfskraft (w/m/d)</b></p>
-<p style="text-align: center;">(für 32 Stunden pro Monat)</p>
+<p style="text-align: center;">(für 38 Stunden pro Monat)</p>
 
 ### Das Projekt
 
@@ -26,9 +26,9 @@ Versionierte digitale Objekte können zudem mit der Welt geteilt, von anderen tr
 Damit trägt Versionskontrolle dazu bei, dass aus Daten generiertes Wissen transparent, zugänglich und verifizierbar ist.
 Weitere Details zum Projekt finden sich auf der Projektwebsite unter [https://lennartwittkuhn.com/ddlitlab-proposal/](https://lennartwittkuhn.com/ddlitlab-proposal/). Die Kurs-Website findet sich unter [https://lennartwittkuhn.com/version-control-course-uhh-ws23/](https://lennartwittkuhn.com/version-control-course-uhh-ws23/).
 
-Der Beginn der Tätigkeit ist für den **01.10.2023** avisiert.
+Der Beginn der Tätigkeit ist für den **16.10.2023** avisiert.
 Die Mitarbeit ist bis zum **31.03.2024** befristet.
-Der Arbeitsumfang beträgt 32 Stunden/Monat.
+Der Arbeitsumfang beträgt 38 Stunden/Monat.
 Eine flexible Einteilung der Arbeitsstunden nach Absprache ist möglich.
 Die Vergütung beträgt:
 
@@ -73,7 +73,7 @@ Außerdem wünschen wir uns, wenn möglich:
 
 Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen - unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.
 
-Bitte richten Sie Ihre vollständigen Bewerbungsunterlagen (tabellarischer Lebenslauf **ohne Foto**, Motivationsschreiben (max. 1 Seite), aktuelle Semester-/Immatrikulationsbescheinigung, Hochschulzeugnisse oder Transkript of Records bzw. einfacher Ausdruck des Leistungskontos, ggf. Zeugnisse oder Nachweise über relevante praktische Tätigkeiten) vorzugsweise in **einer PDF-Datei** und per **E-Mail** bis zum **23.08.2023** an:
+Bitte richten Sie Ihre vollständigen Bewerbungsunterlagen (tabellarischer Lebenslauf **ohne Foto**, Motivationsschreiben (max. 1 Seite), aktuelle Semester-/Immatrikulationsbescheinigung, Hochschulzeugnisse oder Transkript of Records bzw. einfacher Ausdruck des Leistungskontos, ggf. Zeugnisse oder Nachweise über relevante praktische Tätigkeiten) vorzugsweise in **einer PDF-Datei** und per **E-Mail** bis zum **30.08.2023** an:
 
 **Dr. Lennart Wittkuhn**</br>
 Von-Melle-Park 5, Raum 4070, 20146 Hamburg</br>
@@ -128,7 +128,7 @@ Siehe [Ihr Profil](#ihr-profil) oben.
 
 - Beschäftigungsart: Studentische Hilfskraft
 - Beschäftigungsumfang: Nach Vereinbarung
-- Bewerbungsfrist: 23.08.2023
+- Bewerbungsfrist: 30.08.2023
 - Standorte: Hamburg
 
 ### Auswahl über die Bewerbungsform über das Stellenwerk
