@@ -14,6 +14,7 @@ parts:
     - file: lehrkonzept
     - file: transferkonzept
     - file: projektumsetzung
+    - file: budget
   - caption: Anhang
     numbered: false
     chapters:
